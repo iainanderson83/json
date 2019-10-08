@@ -1,0 +1,8 @@
+github.com/pendo-io/jsonparser v0.0.0-20160909191009-1b93d614d50a h1:mnlZfCrUZ49seMEu3WN+vXiJJq3sRLu2acVglffFskk=
+github.com/pendo-io/jsonparser v0.0.0-20160909191009-1b93d614d50a/go.mod h1:aFFtqQdVGVZhSOQJTKI+ahIKKk2YD54NxLmO1I7KSkU=
+github.com/tidwall/gjson v1.3.2 h1:+7p3qQFaH3fOMXAJSrdZwGKcOO/lYdGS0HqGhPqDdTI=
+github.com/tidwall/gjson v1.3.2/go.mod h1:P256ACg0Mn+j1RXIDXoss50DeIABTYK1PULOJHhxOls=
+github.com/tidwall/match v1.0.1 h1:PnKP62LPNxHKTwvHHZZzdOAOCtsJTjo6dZLCwpKm5xc=
+github.com/tidwall/match v1.0.1/go.mod h1:LujAq0jyVjBy028G1WhWfIzbpQfMO8bBZ6Tyb0+pL9E=
+github.com/tidwall/pretty v1.0.0 h1:HsD+QiTn7sK6flMKIvNmpqz1qrpP3Ps6jOKIKMooyg4=
+github.com/tidwall/pretty v1.0.0/go.mod h1:XNkn88O1ChpSDQmQeStsy+sBenx6DDtFZJxhVysOjyk=
