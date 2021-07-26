@@ -4,5 +4,5 @@ go 1.13
 
 require (
 	github.com/pendo-io/jsonparser v0.0.0-20160909191009-1b93d614d50a
-	github.com/tidwall/gjson v1.3.2
+	github.com/tidwall/gjson v1.6.5
 )
